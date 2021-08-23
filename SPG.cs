@@ -1,5 +1,5 @@
 ﻿using System;
-class Program
+class SPG
 {
     static void Main()
     {
