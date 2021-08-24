@@ -4,6 +4,6 @@
 ## How to use?!
 Copy some of them as your password for database or something.
 ## I don't want these special characters.
-The code is friendly to edit.
+The code is edit-friendly.
 ## License
 The Unlicense. You can use it freely.
