@@ -3,7 +3,7 @@ class SPG
 {
     static string ReadNumber(){
         Console.Write("Please input a number for the length of your password:");
-        return Console.Read();
+        return Console.Read().ToString();
     }
     static void Main()
     {
